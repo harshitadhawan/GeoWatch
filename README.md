@@ -1,23 +1,23 @@
-🌍 GEOWATCH – Early Warning System for GLOFs
+### 🌍 GEOWATCH – Early Warning System for GLOFs
 
 An AI-powered web application for Glacier Lake Outburst Flood (GLOF) prediction and impact assessment.
 The system integrates satellite imagery, meteorological data, and deep learning models to provide early warnings and support climate risk analysis.
 
-🚀 Features
+### 🚀 Features
 
-📡 Satellite Data Integration: Uses MODIS meteorological data and Landsat-8 imagery.
+**📡 Satellite Data Integration** : Uses MODIS meteorological data and Landsat-8 imagery.
 
-🗺️ Geospatial Analysis: Preprocessing and mapping with QGIS; computes NDWI, NDSI, and DEM-based terrain analysis.
+**🗺️ Geospatial Analysis**: Preprocessing and mapping with QGIS; computes NDWI, NDSI, and DEM-based terrain analysis.
 
-🤖 AI Forecasting: TensorFlow model for time-series prediction, achieving MSE = 0.6.
+**🤖 AI Forecasting**: TensorFlow model for time-series prediction, achieving MSE = 0.6.
 
-⚠️ Anomaly Detection: Predicts future anomalies and overlays them on geospatial layers.
+**⚠️ Anomaly Detection**: Predicts future anomalies and overlays them on geospatial layers.
 
-🌊 Flood Impact Mapping: Generates early warnings and visual impact assessments of potentially affected areas.
+**🌊 Flood Impact Mapping**: Generates early warnings and visual impact assessments of potentially affected areas.
 
-🌐 Web Application: Interactive dashboard for data visualization and risk monitoring.
+**🌐 Web Application**: Interactive dashboard for data visualization and risk monitoring.
 
-📊 Tech Stack
+### 📊 Tech Stack
 
 Languages: Python
 
@@ -29,7 +29,7 @@ Data Sources: MODIS, Landsat-8
 
 Web Framework: (Flask / Django / Streamlit – whichever you used)
 
-🔬 Workflow
+### 🔬 Workflow
 
 Data Collection – Fetch MODIS meteorological data & Landsat-8 imagery.
 
