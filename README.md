@@ -1,3 +1,6 @@
+Check out the deployed project!
+https://glof-plum.vercel.app/
+
 ### 🌍 GEOWATCH – Early Warning System for GLOFs
 
 An AI-powered web application for Glacier Lake Outburst Flood (GLOF) prediction and impact assessment.
